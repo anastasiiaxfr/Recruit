@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pro-cleaning-eta.vercel.app/sitemap-index.xml
+Sitemap: https://recruit-tau-coral.vercel.app/sitemap-index.xml

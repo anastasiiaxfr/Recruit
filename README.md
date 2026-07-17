@@ -11,10 +11,10 @@ A modern, responsive website template for recruitment agencies and talent acquis
 ## Demo
 
 - ✨ [Live Demo](https://recruit-tau-coral.vercel.app/)
-- 💨 [PageSpeed Insights Report](<>)
+- 💨 [PageSpeed Insights Report](https://pagespeed.web.dev/analysis/https-recruit-tau-coral-vercel-app/escn0ui6kh?form_factor=mobile)
 - [Sitemap.xml](https://recruit-tau-coral.vercel.app/sitemap-index.xml)
 - [Robots.txt](https://recruit-tau-coral.vercel.app/robots.txt)
-- [Schema.org validator](<>)
+- [Schema.org validator](https://search.google.com/test/rich-results/result?id=p1_Xj7aminPZWrig58kGOw)
 - [RSS](https://recruit-tau-coral.vercel.app/rss.xml)
 
 Features:
@@ -43,8 +43,7 @@ Pages:
 
 ## Google pages speed
 
-![mobile](<>)
-![desktop](<>)
+![desktop](https://github.com/anastasiiaxfr/Recruit/blob/main/public/theme/4.png)
 
 ## Open Graph Card
 
