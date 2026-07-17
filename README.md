@@ -1,19 +1,58 @@
-# Astro Starter Kit: Blog
+> ⭐️ Love this theme? Star it to support our work!
 
-```sh
-npm create astro@latest -- --template blog
-```
+# Recruit: Recruitment Services Website
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+A modern, responsive website template for recruitment agencies and talent acquisition teams. Built with Astro and Tailwind CSS, Recruit helps companies present their hiring services, publish job openings, introduce their team, share industry insights, and connect talented candidates with the right opportunities through a fast, professional, and conversion-focused experience.
+
+> ⚡ Built with Astro 7, Tailwind CSS 4 & DaisyUI, and Markdown — optimized for performance, SEO, and simplicity.
+
+![Template Preview](https://github.com/anastasiiaxfr/Recruit/blob/main/public/theme/og-1200x630.webp)
+
+## Demo
+
+- ✨ [Live Demo](https://recruit-tau-coral.vercel.app/)
+- 💨 [PageSpeed Insights Report](<>)
+- [Sitemap.xml](https://recruit-tau-coral.vercel.app/sitemap-index.xml)
+- [Robots.txt](https://recruit-tau-coral.vercel.app/robots.txt)
+- [Schema.org validator](<>)
+- [RSS](https://recruit-tau-coral.vercel.app/rss.xml)
 
 Features:
 
 - ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and Open Graph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
+- ✅ 99+/100 Lighthouse performance
+- ✅ SEO-friendly with canonical URLs and meta tags, Open Graph data, JSON-LD schema and PWA
+- ✅ Sitemap, robots.txt support
 - ✅ Markdown & MDX support
+- ✅ Fully responsive and accessible
+- ✅ Easily deploy to Vercel, Netlify, or Cloudflare Pages
+
+Pages:
+
+- home
+- about
+- jobs
+- jobs detail
+- blog
+- blog detail
+- 404 / 500
+
+## PWA support
+
+![pwa](https://github.com/anastasiiaxfr/Recruit/blob/main/public/theme/1.webp)
+
+## Google pages speed
+
+![mobile](<>)
+![desktop](<>)
+
+## Open Graph Card
+
+![Facebook](https://github.com/anastasiiaxfr/Recruit/blob/main/public/theme/3.webp)
+![Telegram](https://github.com/anastasiiaxfr/Recruit/blob/main/public/theme/2.webp)
+
+Main color not changed to Luminance color:
+[Luminance color](https://app.contrast-finder.org/result.html?foreground=%2341ECC3&background=%23F9F9F9&ratio=4.5&isBackgroundTested=true&algo=HSV&lang=uk)
 
 ## 🚀 Project Structure
 
@@ -22,24 +61,16 @@ Inside of your Astro project, you'll see the following folders and files:
 ```text
 ├── public/
 ├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
+│   ├── assets/
+│   ├── components/
+│   ├── content/
+│   ├── layouts/
+│   └── pages/
 ├── astro.config.mjs
 ├── README.md
 ├── package.json
 └── tsconfig.json
 ```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
-
-Any static assets, like images, can be placed in the `public/` directory.
 
 ## 🧞 Commands
 
@@ -58,6 +89,8 @@ All commands are run from the root of the project, from a terminal:
 
 Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-## Credit
+## 🛠 Credits
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+Made with ❤️ by [anastasiiaxfr](https://github.com/anastasiiaxfr/Recruit)
+
+Recruit is inspired by the free [Recruit Theme](https://www.figma.com/community/file/1319625799280992323/recruitment-website-ui-kit)
