@@ -13,13 +13,21 @@
   --color-secondary: #132745;
 }
 
+@plugin "daisyui/theme" {
+  name: "dark";
+  prefersdark: true;
+
+  --color-primary: #41ecc3;
+  --color-secondary: #132745;
+}
+
 @theme {
   --color-light-100: #f9f9f9;
 }
 
 html,
 body {
-  @apply flex flex-col h-full min-h-full;
+  @apply flex flex-col h-full min-h-full bg-white text-black;
 }
 
 .section {

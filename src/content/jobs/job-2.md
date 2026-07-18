@@ -1,5 +1,5 @@
 ---
-title: "Frontend Developer"
+title: "FullStack Developer"
 description: |
   Lorem ipsum dolor sit amet consectetur. Turpis sed pulvinar sed blandit rhoncus tellus senectus at quis. Mi at fermentum imperdiet velit magna a aliquam. Faucibus et quam ac elit placerat tristique vulputate. Lorem ipsum dolor sit amet consectetur. Turpis sed pulvinar sed blandit rhoncus tellus senectus at quis.
 
@@ -8,8 +8,8 @@ referrer: "#FDMAN2038-234"
 city: Manchester
 country: UK
 currency: "£"
-min_salary: 40000
-max_salary: 55000
+min_salary: 60000
+max_salary: 85000
 salary_period: "per annum"
 type: "Hybrid, Permanent"
 company: "Leading Ecommerce Firm"
@@ -22,6 +22,8 @@ tags:
   - React
   - RTK
   - TanStack Query
+  - Php
+  - Laravel
   - Docker
 pubDate: "Jul 08 2022"
 heroImage: "../../assets/og-1200x630.webp"

@@ -57,7 +57,7 @@ const { Content } = await render(post);
               {post.data.currency}{post.data.min_salary} - {post.data.currency}{
                 post.data.max_salary
               }
-              &nbsp;{post.data.salary_period} + Bonus + Pension + Benefits
+              &nbsp;{post.data.salary_period} + {post.data.benefits.join(" + ")}
             </p>
           </div>
           <hr class="opacity-10" />
@@ -92,6 +92,16 @@ const { Content } = await render(post);
               post.data.type
             }
           </p>
+
+          <div class="flex flex-wrao gap-3 items-center">
+            {
+              post.data.tags.map((tag) => (
+                <a href={`/jobs/${tag.toLowerCase().replace(/\s+/g, "-")}`}>
+                  #{tag}
+                </a>
+              ))
+            }
+          </div>
           <Content />
         </section>
         <hr class="opacity-20 my-10" />
